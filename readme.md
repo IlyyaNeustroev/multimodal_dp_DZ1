@@ -1,10 +1,12 @@
 # ДЗ1: Attention своими руками
+# ДЗ1: охота за багами
 
-Сыылка на Google Colab для "dz1_attention.ipynb": https://colab.research.google.com/drive/1_Emz5A67V4sAxvZ5c7Jcb-TJWaak06YE?hl=ru#scrollTo=c018
+Сыылка на Google Colab для "dz1_attention.ipynb": https://colab.research.google.com/drive/1_Emz5A67V4sAxvZ5c7Jcb-TJWaak06YE?usp=sharing
 
-Сыылка на Google Colab для "dz1_bughunt.ipynb": https://colab.research.google.com/drive/1MD9czv6FzFAV1HARCy6xk8byVusxBQcQ?hl=ru#scrollTo=c032
+Сыылка на Google Colab для "dz1_bughunt.ipynb": https://colab.research.google.com/drive/1MD9czv6FzFAV1HARCy6xk8byVusxBQcQ?usp=sharing
 
-Далее расписано как запустить запустить д локально  в виртуальном окружении.
+
+Далее расписано как запустить запустить локально  в виртуальном окружении.
 
 ## Требования
 
